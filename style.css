@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.mim{
+    color: darksalmon;
+}
+section{
+    display: flex;
+}
+.sharmin{
+    width: 50%;
+    padding: 5%;
+}
+.sharmin img{
+    width: 82%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( orange, tomato);
+    padding: 7px; 40px;
+    border-radius: 5px;
+    color: white;
+    front: weight 7000px;
+}

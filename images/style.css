@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.mim{
+    color: rgb(233, 62, 62);
+}
+section{
+    display: flex;
+}
